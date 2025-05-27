@@ -43,6 +43,6 @@ npx react-native run-android
 
 ### Update your MAPBOX_PUBLIC_TOKEN
 cerate .env file in your project's root folder and add:
-```bash
+```py
 MAPBOX_PUBLIC_TOKEN=pk.674234321........
 
