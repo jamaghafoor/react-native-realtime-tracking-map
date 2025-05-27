@@ -25,20 +25,20 @@ This project is a React Native application that demonstrates real-time route tra
 - Android Studio or Xcode
 - Mapbox Access Token
 - Git
-
+- Yarn
 
 ### Installation
 
 ```bash
 git clone https://github.com/jamaghafoor/react-native-realtime-tracking-map.git
 cd react-native-realtime-tracking-map
-npm install or yarn install
+yarn install
 
 # iOS
-npx react-native run-ios
+yarn ios
 
 # Android
-npx react-native run-android
+yarn android
 ```
 
 ### Update your MAPBOX_PUBLIC_TOKEN
