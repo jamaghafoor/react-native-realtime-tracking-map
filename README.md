@@ -29,7 +29,7 @@ This project is a React Native application that demonstrates real-time route tra
 
 ### Installation
 
-```console
+```bash
 git clone https://github.com/jamaghafoor/react-native-realtime-tracking-map.git
 cd react-native-realtime-tracking-map
 npm install or yarn install
@@ -43,6 +43,6 @@ npx react-native run-android
 
 ### Update your MAPBOX_PUBLIC_TOKEN
 cerate .env file in your project's root folder and add:
-```py
+```bash
 MAPBOX_PUBLIC_TOKEN=pk.674234321........
 
