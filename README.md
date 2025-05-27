@@ -29,7 +29,7 @@ This project is a React Native application that demonstrates real-time route tra
 
 ### Installation
 
-```bash
+```console
 git clone https://github.com/jamaghafoor/react-native-realtime-tracking-map.git
 cd react-native-realtime-tracking-map
 npm install or yarn install
