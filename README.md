@@ -1,4 +1,4 @@
-# 🚗 React Native Mapbox Navigation UI
+# 🚗 React Native Mapbox Real-time Tracking/Navigation
 
 This project is a React Native application that demonstrates real-time route tracking and navigation using Mapbox. Inspired by ride-sharing apps like Uber, it visualizes a user’s journey with an ETA, current location, and destination on a sleek map interface.
 
