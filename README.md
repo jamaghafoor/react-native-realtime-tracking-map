@@ -17,6 +17,7 @@ This project is a React Native application that demonstrates real-time route tra
 
 ## 🔧 Getting Started
 
+
 ### Prerequisites
 
 - Node.js ≥ 14
@@ -38,3 +39,10 @@ npx react-native run-ios
 
 # Android
 npx react-native run-android
+```
+
+### Update your MAPBOX_PUBLIC_TOKEN
+cerate .env file in your project's root folder and add:
+```bash
+MAPBOX_PUBLIC_TOKEN=pk.674234321........
+
